@@ -1,0 +1,9 @@
+###############
+
+run program
+node api/app.js
+
+this command update api for get the price of Bitcoin
+
+run index.html
+local host Port :5500
